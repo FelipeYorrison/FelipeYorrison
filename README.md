@@ -1,43 +1,65 @@
-Headme 
- <h1 align="left"> 
- Hey yo, I'm Felipe Yorrison, <strong> Developer!!</strong>
-</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/FelipeYorrison/e2f43f065df9397d8e6341f6094944b4/raw/869ff1834ae3d85a3389aa731e9133af34a1e09a/git.card.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,I'm Felipe Yorrison</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+
+- 🔥 Junior Engenheiro de Software | Kotlin | Java
+
+- 💬 Ask me about **JavaScript, HTML,CSS,JavaScript, JAVA,  KOTLIN**
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <p>Now looking for a developer job.</p>
-  <a href="https://web.whatsapp.com/" alt="Whatsapp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipeyorrison&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeyorrison&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
 
-  <a href="https://www.linkedin.com/in/felipe-yorrison-830a45296/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a
 
-</p>  
 
- <ul align="left"> 
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9pMGdqZXFmY3BjMGdsY3EzN3JrMXA1dWl3YmR1ZzBweXBwNXJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" height="200" width="190" align="right" alt="Formando img"/>
-  <li>💻 A Javascript Developer from Santa Catarina, Brasil;</li>
-  <li>😍 Passionate about Javascript, Typescript, Node and ReactJS.</li>
-  <li>💻 I also have knowledge in Php and Mysql</li>
-  <li>😊 Enjoy spending my free time trying to solve new problems in programming.</li>
-  <li>🤓 Currently improving my skills in React and unit testing, also in Typescript.</li>
-  
- </ul>
- 
- <hr>
+## Contact
 
-<div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Formando-Js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Formando-TypeScript"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Formando React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Formando Node.js"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Formando Php"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Formando Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-</div>
- 
- <hr>
+<p align="left" style="background:yellow">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yorrison-234&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://x.com/felipeYorr58668" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-FelipeYorrison-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/felipe-yorrison-830a45296/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-FelipeYorrison-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/felipedeveloper2/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-FelipeYorrison-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 
- ![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorrison-234&layout=compact&theme=dark#gh-dark-mode-only)
+</p>
+
+<!--
+
+<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+
+
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
